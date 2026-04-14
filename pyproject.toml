@@ -1,0 +1,9 @@
+[project]
+name = "edgesettings"
+version = "0.1.0"
+description = "Automate Edge browser settings via Playwright"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pytest-playwright>=0.7.2",
+]
